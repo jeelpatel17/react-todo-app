@@ -3,25 +3,25 @@
   "name": "To-Do List App",
   "icons": [
     {
-      "src": "public/img/manifest-icon-512.png",
+      "src": "./img/manifest-icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "public/img/manifest-icon-512.png",
+      "src": "./img/manifest-icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "favicon.png",
+      "src": "./favicon.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/png"
     }
   ],
-  "start_url": "index.html",
+  "start_url": "/index.html",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#000000"
 }
